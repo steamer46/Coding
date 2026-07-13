@@ -5,7 +5,6 @@
 
 ## 🏆 백준(solved.ac)
 
-* **실시간 프로필 배지:** 
   [![solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=janghun0805)](https://solved.ac/profile/janghun0805)
 
 * **2025년 당시 연속 문제 해결(스트릭) 기록:**
@@ -28,4 +27,4 @@
 
 * 각 문제 폴더 안에는 **[실제 구동 가능한 소스코드]**와 당시에 치열하게 고민했던 **[블로그 해설글 내용 + 사담]**이 기록되어 있습니다.
 * 
-* 당시에 작성한 날것의 기록과 교차 검증은 (https://blog.naver.com/steamer0805)에서 확인하실 수 있습니다.
+* 당시에 작성한 날것의 기록과 교차 검증은 https://blog.naver.com/steamer0805 에서 확인하실 수 있습니다.
